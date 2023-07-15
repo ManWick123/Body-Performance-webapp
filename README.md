@@ -2,6 +2,8 @@
 
 This web app allows you to predict body performance based on several input parameters. It is built using Python and the Flask web framework.
 
+## BodyPerf.mp4 shows the website and how it gives the result.
+
 ## Getting started
 ### To use this web app, follow these steps:
 1. Clone this repository to your local machine.
