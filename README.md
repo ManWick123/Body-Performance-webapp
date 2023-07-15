@@ -10,7 +10,7 @@ This web app allows you to predict body performance based on several input param
 4. Open a terminal and run the app using the command "python app.py"(also if you haven't got the libraries needed you have to install them also).
 5. Once the app is running, open your web browser and go to the following URL to directly open the predict page
 URL : http://localhost:5000/
-6. Otherwise to go to the full website with the model go to the following wix site.
+6. Otherwise to go to the full website with the model go to the following wix site. (this is the website which includes demonstration videos and stuff adn before clicking the test now button make sure to run the app in your local host)
 URL : https://manulpasi123.wixsite.com/body-performance
 7. You should now be able to use the web app to predict body performance based on the input parameters
 
